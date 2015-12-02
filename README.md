@@ -1,2 +1,2 @@
-# OmniBrowser
-A fast, efficient, and very dynamic web browser
+# The OmniBrowser
+#### Web surfing made beautiful.
